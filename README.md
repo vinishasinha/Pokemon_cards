@@ -10,5 +10,9 @@ Currently, two official plugins are available:
 # How to Setup
 
 Step1: cd Pokemon_cards-React
+
+
 Step2: npm install
+
+
 Step3: npm run dev 
